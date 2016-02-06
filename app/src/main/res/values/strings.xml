@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Crunch Time</string>
+    <string name="workout_prompt">Choose a workout</string>
+
+    <string-array name="workout_arrays">
+        <item>Calories Burned</item>
+        <item>Pushups (reps)</item>
+        <item>Situps (reps)</item>
+        <item>Squats (reps)</item>
+        <item>Leg-lift (min)</item>
+        <item>Plank (min)</item>
+        <item>Jumping Jacks (min)</item>
+        <item>Pullup (reps)</item>
+        <item>Cycling (min)</item>
+        <item>Walking (min)</item>
+        <item>Jogging (min)</item>
+        <item>Swimming (min)</item>
+        <item>Stair Climbing (min)</item>
+    </string-array>
+
+</resources>
