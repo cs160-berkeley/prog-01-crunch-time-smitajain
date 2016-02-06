@@ -1,14 +1,14 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+This app takes in age, height, weight, gender, workout, and time to calculate the number of calories burned.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+FirstName LastName ([smitajain@berkeley.edu](mailto:smitajain@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [your demo video title here] (https://www.youtube.com/watch?v=hwTdlWEiKUI&feature=youtu.be&hd=1)
 
 ## Screenshots
 
